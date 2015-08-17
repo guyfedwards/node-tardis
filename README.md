@@ -19,5 +19,6 @@ tardis [dir]
 ### TODO
 - remove spaces from filenames
 - ignore files, only directories
+- npm install
 
 
