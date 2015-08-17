@@ -1,0 +1,15 @@
+{
+  "name": "tardis",
+  "version": "1.0.0",
+  "description": "Create individual .tar.gz files of all folders in directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tardis": "index.js"
+  },
+  "preferGlobal": true,
+  "author": "Guy Edwards",
+  "license": "ISC"
+}
